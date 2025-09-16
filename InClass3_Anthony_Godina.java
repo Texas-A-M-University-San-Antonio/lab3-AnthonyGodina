@@ -25,7 +25,7 @@ public class InClass3_Anthony_Godina
         volume = Math.pow(side, 3);
 
         // Step 4: Use an appropriate method to determine the surface area of the cube.
-        surfaceArea = Math.pow(side, 2);
+        surfaceArea = 6 * Math.pow(side, 2);
 
         // HINT: Steps 3 and 4 will use the Math.pow(a, b) method
         // Step 5: Print the volume and surface area in clear sentences.
